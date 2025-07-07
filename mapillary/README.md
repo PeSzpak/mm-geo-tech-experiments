@@ -60,3 +60,5 @@ Rode o servidor local com o Vite:
 
 
 Apos rodar a aplicação você tera a imagem que foi adicionada via ID no caso o pKey, obtido atraves dos links de imagem : pKey=3018702688362520
+
+![image](https://github.com/user-attachments/assets/10a068bb-d634-434b-8c4c-fa1b5e4f7d7b)
