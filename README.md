@@ -29,6 +29,3 @@ O repositório contempla estudos práticos com diversas bibliotecas e APIs, como
 - ✅ Produzir exemplos comentados e replicáveis.
 
 ---
-
-## 📁 Estrutura do Repositório
-
