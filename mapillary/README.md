@@ -33,7 +33,7 @@ const viewer = new Viewer({
 
 Inicialize um projeto Node.js:
 
---///npm init -y
+-npm init -y
 
 Instale o Vite:
 
