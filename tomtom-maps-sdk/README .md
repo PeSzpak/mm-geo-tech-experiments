@@ -1,6 +1,5 @@
 # 🗺️ TomTom Maps SDK - Exemplos para Web
 
-Este repositório contém diversos exemplos prontos para uso com o **TomTom Maps SDK for Web**, ideal para testar funcionalidades como mapas, rotas, busca, tráfego e muito mais!
 
 ---
 
@@ -12,7 +11,7 @@ Este repositório contém diversos exemplos prontos para uso com o **TomTom Maps
 git clone https://github.com/tomtom-international/maps-sdk-for-web-examples.git
 
 
-2️⃣ Acesse a pasta do projeto
+2️⃣ Acesse a pasta do projeto ou acesse o repositorio diretamente que ja esta na pasta
 
 cd maps-sdk-for-web-examples/
 
