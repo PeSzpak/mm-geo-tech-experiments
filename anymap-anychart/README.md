@@ -1,4 +1,4 @@
-### 1️⃣ Criar um arquivo html basico
+### 1️⃣ Criar um arquivo html
 
 adicionar ao html:
 
