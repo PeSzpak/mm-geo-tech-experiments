@@ -39,12 +39,13 @@ const viewer = new Viewer({
 
 ### No package.json, adicione os scripts:
 
+```bash 
 "scripts": {
   "dev": "vite",
   "build": "vite build",
   "preview": "vite preview"
 }
-
+```
 
 ### Instale o pacote mapillary-js:
 ```bash
