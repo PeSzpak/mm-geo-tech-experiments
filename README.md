@@ -14,10 +14,14 @@ O repositório contempla estudos práticos com diversas bibliotecas e APIs, como
 - [Mapillary JS](https://mapillary.github.io/mapillary-js/)  
 - [OpenStreetMap](https://www.openstreetmap.org/)  
 - [Google Maps Platform](https://developers.google.com/maps)  
-- [Bing Maps](https://www.bingmapsportal.com/)  
+- [HERE Maps](https://developer.here.com/)  
 - [AnyChart Maps](https://www.anychart.com/products/anymap/overview/)  
 - [Overpass Turbo (OpenStreetMap Query Tool)](https://overpass-turbo.eu/)  
-- E outras soluções de visualização e análise geoespacial.
+- [TomTom Maps SDK for Web](https://developer.tomtom.com/maps-sdk-web)  
+- [Mapbox](https://www.mapbox.com/maps)  
+- [CesiumJS](https://cesium.com/platform/cesiumjs/)  
+- [Kartaview](https://kartaview.org/)  
+
 
 ---
 
