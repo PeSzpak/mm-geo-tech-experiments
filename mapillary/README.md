@@ -1,3 +1,7 @@
+🗺️ Mapillary
+
+---
+
 ### 1️⃣ Primeiramente
 
 Para começar a usar o MapillaryJS com dados da plataforma Mapillary , você precisa de uma conta . Após efetuar login, você precisa registrar um aplicativo para obter um token de acesso do cliente . Ao fornecer seus próprios dados , não é necessário um token de acesso.
