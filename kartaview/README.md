@@ -11,10 +11,14 @@ se houver imagends proximas serão mostradas , caso contrario , exibe que não f
 
 ### ⚠️  A API do KartaView pode bloquear requisições feitas diretamente pelo navegador
 
-## 🚀 Como usar - Inicie utilizando o Live-server ou um servidor local:
+## 🚀 Como usar 
 
+Inicie utilizando o Live-server ou um servidor local:
+
+```bash
 npm install -g serve
 serve .
+```
 
 ### 📦 Exemplos:
 
