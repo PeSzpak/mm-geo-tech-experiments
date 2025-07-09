@@ -50,9 +50,6 @@ Construa o projeto com sua API:
 -npm start
 
 
-### Exemplo d e funcionalidades
+Exemplo de funcionalidades
 
-[[![image]([https://github.com/user-attachments/assets/cca74bce-b99b-4139-ad8a-b291faa036aa](https://imgur.com/4GvXDQe))](https://imgur.com/4GvXDQe)](https://imgur.com/4GvXDQe)
-
-
-![image](https://github.com/user-attachments/assets/06c9a0ac-08cb-4c30-a7a6-f69ce82a2720)
+![image](https://github.com/user-attachments/assets/b4486d16-1e69-47bb-8e01-4aadb8ef6272)
