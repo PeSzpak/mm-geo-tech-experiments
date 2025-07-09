@@ -48,3 +48,10 @@ Construa o projeto com sua API:
 
 
 -npm start
+
+
+### Exemplo d e funcionalidades
+
+![image](https://github.com/user-attachments/assets/157a86e6-28ba-47ba-a1a7-0aea53599268)
+
+![image](https://github.com/user-attachments/assets/06c9a0ac-08cb-4c30-a7a6-f69ce82a2720)
