@@ -43,11 +43,12 @@ Em seguida, abra o arquivo config.json e substitua os campos pelas suas chaves:
 
 
 Construa o projeto com sua API:
-
+```bash
 -npm run build
 
 
 -npm start
+```
 
 
 Exemplos:
