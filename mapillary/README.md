@@ -6,15 +6,15 @@ Para começar a usar o MapillaryJS com dados da plataforma Mapillary , você pre
 ### 2️⃣ Crie dois arquivos: index.html e main.js.
 
 No arquivo index.html, adicione:
-
+```bash
 <link
   href="https://unpkg.com/mapillary-js@4.1.2/dist/mapillary.css"
   rel="stylesheet"
 />
-
+```
 
 No arquivo .js (main.js), adicione o seguinte código:
-
+```bash
 import { Viewer } from "mapillary-js";
 
 const viewer = new Viewer({
@@ -22,7 +22,7 @@ const viewer = new Viewer({
   container: "<your HTML element ID>",
   imageId: "<your image ID for initializing the viewer>",
 });
-
+```
 
 
 ### 🚀 Rodando o projeto
