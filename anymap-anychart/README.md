@@ -59,9 +59,9 @@ adicionar ao html:
 
 ### Utilize Live-Server para rodar ou:
 
-``bash 
+```bash 
 npx serve .
-``
+```
 ### Exemplo:
 
 ![image](https://github.com/user-attachments/assets/367d78a7-ec70-41ca-a58d-d1fe39c870b4)
