@@ -16,5 +16,3 @@ adicione sua api:
 
 ![image](https://github.com/user-attachments/assets/95132969-c0cb-4f35-899f-e96ee017f42d)
 
-
-![Uploading image.png…]()
