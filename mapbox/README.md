@@ -76,7 +76,7 @@ mapboxgl.accessToken = 'pk.eyJ1Ijoic3pwYWsiLCJhIjoiY21jcDZlNWFmMDMyOTJub2htNzFpY
 
 ### 🚀 Rodar a ferramenta
 
-### Para baixar o mapbox e suas dependencia
+### Para baixar o mapbox e suas dependencia:
 
 ```bash 
 npm install mapbox-gl@2.15.0
