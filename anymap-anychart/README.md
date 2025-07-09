@@ -55,7 +55,7 @@ adicionar ao html:
  </body>
 </html>
  ```
-### 2🚀 Rodar o projeto
+### 🚀 Rodar o projeto
 
 ### Utilize Live-Server para rodar ou:
 
