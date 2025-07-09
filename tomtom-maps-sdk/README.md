@@ -9,7 +9,7 @@
 
 ```bash
 git clone https://github.com/tomtom-international/maps-sdk-for-web-examples.git
-
+```
 
 2️⃣ Acesse a pasta do projeto ou acesse o repositorio diretamente que ja esta na pasta
 
@@ -48,3 +48,10 @@ Construa o projeto com sua API:
 
 
 -npm start
+
+
+Exemplos:
+
+![image](https://github.com/user-attachments/assets/ae01ddf3-cb11-4278-ae18-23ab083fddb5)
+
+![image](https://github.com/user-attachments/assets/ae4c3e8b-4ac5-4855-8258-5712bc04c3e1)
