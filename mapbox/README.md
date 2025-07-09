@@ -1,8 +1,8 @@
-🗺️ Projeto Mapbox
+# 🗺️ Projeto Mapbox
 
 ---
 
-## 1️⃣ Primeiramente é necessario criar uma conta no site da mapbox para adquirir sua Key
+### 1️⃣ Primeiramente é necessario criar uma conta no site da mapbox para adquirir sua Key
 
 ### 2️⃣ Criar dois arquivos html e js, como no exemplo para o mapa 3D abaixo:
 
