@@ -1,12 +1,9 @@
-Instalação e uso
+### 1️⃣ Primeiramente
 
 Para começar a usar o MapillaryJS com dados da plataforma Mapillary , você precisa de uma conta . Após efetuar login, você precisa registrar um aplicativo para obter um token de acesso do cliente . Ao fornecer seus próprios dados , não é necessário um token de acesso.
 
 
-
-                    ### 🛠️ Montando o projeto ###
-
-Crie dois arquivos: index.html e main.js.
+### 2️⃣ Crie dois arquivos: index.html e main.js.
 
 No arquivo index.html, adicione:
 
@@ -27,20 +24,20 @@ const viewer = new Viewer({
 });
 
 
-                    ### 🚀 Rodando o projeto ###
 
-🚀 Rodando o projeto
+### 🚀 Rodando o projeto
 
-Inicialize um projeto Node.js:
+### Inicialize um projeto Node.js:
 
+```bash
 -npm init -y
-
-Instale o Vite:
-
+```
+### Instale o Vite:
+```bash
 -npm install vite --save-dev
+```
 
-
-No package.json, adicione os scripts:
+### No package.json, adicione os scripts:
 
 "scripts": {
   "dev": "vite",
@@ -49,16 +46,16 @@ No package.json, adicione os scripts:
 }
 
 
-Instale o pacote mapillary-js:
-
+### Instale o pacote mapillary-js:
+```bash
 -npm install mapillary-js
+```
 
-
-Rode o servidor local com o Vite:
-
+### Rode o servidor local com o Vite:
+```bash
 -npm run dev
+```
 
-
-Apos rodar a aplicação você tera a imagem que foi adicionada via ID no caso o pKey, obtido atraves dos links de imagem : pKey=3018702688362520
+### Apos rodar a aplicação você tera a imagem que foi adicionada via ID no caso o pKey, obtido atraves dos links de imagem : pKey=3018702688362520
 
 ![image](https://github.com/user-attachments/assets/10a068bb-d634-434b-8c4c-fa1b5e4f7d7b)
