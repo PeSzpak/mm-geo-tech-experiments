@@ -86,7 +86,7 @@ npm install mapbox-gl@2.15.0
 ```bash
 npx serve .
 ```
-### Exemplo
+### Exemplo:
 
 ![image](https://github.com/user-attachments/assets/7b4a551d-652c-4771-985f-ba2dfb4b4940)
 
