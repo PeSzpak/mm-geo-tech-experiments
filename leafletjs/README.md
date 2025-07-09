@@ -2,31 +2,29 @@
 
 ---
 
-## 📦 Passo a passo para rodar o projeto
-
-### 1. 📁 Crie uma pasta para o projeto
-
+### 1️⃣  Crie uma pasta para o projeto
+```bash
 mkdir leafletjs
 cd leafletjs
+```
 
-
-### 2. 🧱 Inicialize o projeto com npm
-
+### 2️⃣ Inicialize o projeto com npm
+```bash
 -npm init -y
+```
 
-
-### 3. ⚙️ Instale as dependências
-
+### 3️⃣ Instale as dependências
+```bash
 -npm install vite --save-dev
+```
 
-
-Instale o Leaflet:
-
+### Instale o Leaflet:
+```bash
 -npm install leaflet
+```
 
-
-### 4. 📝 Crie o arquivo index.html
-
+### 4️⃣ Crie o arquivo index.html
+```bash
 <!DOCTYPE html>
 <html>
 <head>
@@ -63,6 +61,7 @@ Instale o Leaflet:
 
 </body>
 </html>
+```
 
 ---
 
