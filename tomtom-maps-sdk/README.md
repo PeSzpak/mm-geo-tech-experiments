@@ -52,7 +52,7 @@ Construa o projeto com sua API:
 
 ### Exemplo d e funcionalidades
 
-![image]([https://github.com/user-attachments/assets/cca74bce-b99b-4139-ad8a-b291faa036aa](https://imgur.com/4GvXDQe))
+[[![image]([https://github.com/user-attachments/assets/cca74bce-b99b-4139-ad8a-b291faa036aa](https://imgur.com/4GvXDQe))](https://imgur.com/4GvXDQe)](https://imgur.com/4GvXDQe)
 
 
 ![image](https://github.com/user-attachments/assets/06c9a0ac-08cb-4c30-a7a6-f69ce82a2720)
