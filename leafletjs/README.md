@@ -67,3 +67,19 @@ Instale o Leaflet:
 ---
 
 ### 🚀 Rode o index.html com o Live-Server
+
+
+### Estilos de mapas
+
+🗺️ Padrão (OSM)    OpenStreetMap
+![image](https://github.com/user-attachments/assets/bcff3c9a-85f8-49a5-86de-75767978d8ad)
+
+Satélite    Esri, Mapbox, Google (via plugin)
+![image](https://github.com/user-attachments/assets/77c25d7a-0716-474f-8c11-254f0c777735)
+
+Dark    CartoDB Dark Matter, Mapbox Dark
+![image](https://github.com/user-attachments/assets/63adaf5a-875d-4396-916e-bce0b775c31c)
+
+Light / Minimalista    CartoDB Positron, Stamen Toner Lite
+![image](https://github.com/user-attachments/assets/88abbd6c-2b6b-454c-99f7-4152d8b261b8)
+
