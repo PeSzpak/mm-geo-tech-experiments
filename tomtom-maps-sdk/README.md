@@ -48,9 +48,3 @@ Construa o projeto com sua API:
 
 
 -npm start
-
-
-Exemplo de funcionalidades
-
-![T](https://i.imgur.com/4GvXDQe.png)
-
