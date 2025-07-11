@@ -23,7 +23,7 @@ O repositório contempla estudos práticos com diversas bibliotecas e APIs, como
 - [Kartaview](https://kartaview.org/)
 - [Photon](https://photon.komoot.io)
 - [Valhalla](https://valhalla.github.io/valhalla/)
-- [Valhalla](https://nominatim.org/)
+- [Nominatim](https://nominatim.org/)
 
 
 
