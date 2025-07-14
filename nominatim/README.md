@@ -3,7 +3,7 @@
 
 ### 1️⃣ Primeriamente deve ser criado um arquivo index.html:
 
-deve ser criado um arquivo index.html:
+
 ```bash
 <!DOCTYPE html>
 <html lang="pt-BR">
