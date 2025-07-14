@@ -29,7 +29,7 @@
 ```
 ### para o js utilizar  o token:
 ```bash
-mapboxgl.accessToken = 'API_KEY'; #// sua key aqui | exemplo do mapa 3D
+mapboxgl.accessToken = 'SUA_APIKEY_AQUI'; #// sua key aqui | exemplo do mapa 3D
 
     const map = new mapboxgl.Map({
       container: 'map',
