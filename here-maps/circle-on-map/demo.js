@@ -6,9 +6,9 @@ function addCircleToMap(map) {
     1000,
     {
       style: {
-        strokeColor: 'rgba(55, 85, 170, 0.6)', // Color of the perimeter
+        strokeColor: 'rgba(55, 85, 170, 0.6)', 
         lineWidth: 2,
-        fillColor: 'rgba(0, 128, 0, 0.7)'  // Color of the circle
+        fillColor: 'rgba(0, 128, 0, 0.7)'  
       }
     }
   ));

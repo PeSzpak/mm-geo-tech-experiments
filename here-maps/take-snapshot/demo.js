@@ -16,7 +16,7 @@ function capture(resultContainer, map, ui) {
     );
   }
   var platform = new H.service.Platform({
-    apikey: `yvD8GteMmX4KnsNC-XJvg21wuZLhfVTlr7VcPfeFdPQ`,
+    apikey: `SUA_APIKEY_AQUI`,
   });
   var defaultLayers = platform.createDefaultLayers();
   

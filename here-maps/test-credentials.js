@@ -1,1 +1,1 @@
-var apikey = 'yvD8GteMmX4KnsNC-XJvg21wuZLhfVTlr7VcPfeFdPQ';
+var apikey = 'SUA_APIKEY_AQUI';
