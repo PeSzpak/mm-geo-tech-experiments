@@ -1,5 +1,5 @@
 
-const yourApikey = 'yvD8GteMmX4KnsNC-XJvg21wuZLhfVTlr7VcPfeFdPQ';
+const yourApikey = 'SUA_APIKEY_AQUI';
 
 const indoorMapHrn = 'hrn:here:data::org651595200:indoormap-ed6d5667-cfe0-4748-bbf5-88b00e7e3b21-collection';
 

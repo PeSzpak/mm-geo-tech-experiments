@@ -64,13 +64,11 @@
         const city = feature.properties.city || "";
         const country = feature.properties.country;
 
-        // Mover mapa
         map.setView([lat, lon], 14);
 
-        // Remover marcador anterior
         if (marker) map.removeLayer(marker);
 
-        // Adicionar novo marcador
+
         marker = L.marker([lat, lon]).addTo(map)
           .bindPopup(`<b>${name}</b><br>${city}, ${country}`)
           .openPopup();

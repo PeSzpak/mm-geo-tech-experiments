@@ -16,8 +16,7 @@
   <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
   <link href="https://cdn.jsdelivr.net/npm/mapbox-gl@2.15.0/dist/mapbox-gl.css" rel="stylesheet" /> // base para o mapa 
   <style>
-    body { margin:0; padding:0; }                              #// estilo do mapa 
-    #map { position:absolute; top:0; bottom:0; width:100%; }   // estilo do mapa
+    body { margin:0; padding:0; }     
   </style>
 </head>
 <body>

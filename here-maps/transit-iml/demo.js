@@ -17,7 +17,7 @@ function addIml(map) {
     map.addLayer(new H.map.layer.TileLayer(imlProvider));
 }
 const platform = new H.service.Platform({
-    apikey: 'wuhhFoo3HHQ8Bxw68fCZe8iA_J9v4dBnRhSbkAlMup4'
+    apikey: 'SUA_APIKEY_AQUI'
 });
 const defaultLayers = platform.createDefaultLayers();
 
