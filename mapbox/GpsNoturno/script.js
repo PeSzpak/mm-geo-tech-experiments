@@ -1,4 +1,4 @@
-mapboxgl.accessToken = 'pk.eyJ1Ijoic3pwYWsiLCJhIjoiY21jcDZlNWFmMDMyOTJub2htNzFpY2U3cCJ9.cv0VvtWlhFKP7oZ_aHXwxA';
+mapboxgl.accessToken = 'API_KEY';
 
 const map = new mapboxgl.Map({
   container: 'map',
