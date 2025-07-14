@@ -128,6 +128,9 @@
 </body>
 </html>
 ```
+### 🚀 Rodar o projeto
+
+Uitlize o Live-Server
 
 ### Exemplo
 
